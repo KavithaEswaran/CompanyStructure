@@ -55,6 +55,7 @@ public class CompanyStructure {
         System.out.println(VPofENG.requestBonus(seF, 400000));
         System.out.println("Updated budget is: "+seF.getManager().getAccountantSupport().getBonusBudget()+"\n");
         System.out.println();
+        System.out.println("testing for git flow in DevOps");
     }
 
 }
